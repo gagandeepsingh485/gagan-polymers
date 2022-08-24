@@ -3,11 +3,11 @@ title: "Gagan Polymers"
 email: "gaganpolymers@hotmail.com"
 phone: "+91 9417171600"
 address: > # this means to ignore newlines until "description:"
-"Gagan Polymers
+Gagan Polymers
 Gali Murgi Khana
 Near Railway Crossing
 Dhapai Road
-Amritsar 143001"
+Amritsar 143001
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
